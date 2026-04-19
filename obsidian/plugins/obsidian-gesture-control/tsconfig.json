@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "moduleResolution": "bundler",
+    "outDir": ".",
+    "rootDir": ".",
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "lib": ["ES6", "DOM"]
+  },
+  "include": ["main.ts"],
+  "exclude": ["node_modules"]
+}
