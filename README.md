@@ -1,0 +1,1 @@
+# Obsidian_Visao_Computacional
