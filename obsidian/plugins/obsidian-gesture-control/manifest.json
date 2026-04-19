@@ -1,0 +1,8 @@
+{
+  "id": "gesture-control",
+  "name": "Gesture Control",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Controla o grafo com gestos de mão",
+  "author": "Você"
+}
